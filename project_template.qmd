@@ -1,0 +1,64 @@
+---
+title: "PROJECT TITLE"
+subtitle: "STAT 202 Final Project"
+author: "GROUP NAMES"
+
+format:
+  html:
+    toc: true
+    embed-resources: true
+    link-external-newwindow: true
+---
+
+::: callout-note
+Everyone's names must be on this document to get credit. Part of your grade is neatness and organization so make sure you are suppressing warnings and messages.
+
+You can change the header names as you see fit as long as they are appropriate. 
+
+Advanced? Add `code-fold: true` to the yaml header if you want to clean your project up more. 
+
+Need help with formatting or general questions? Attend office hours! This should read as a report. No section should start with code, always introduce the problem or what you are going to do before inserting code/plots.
+
+Hint: if you are using the survey data check Chapter 4 notes for how to read in a .rds file.
+
+Do not include instructions in your report. Delete this callout when you no longer need it. It should not be a part of your submitted final project.
+:::
+
+### Load packages and data
+
+```{r}
+
+```
+
+## Introduction
+
+Write your text here...
+
+## Data Overview
+
+Write your text here...
+
+## Exploratory Data Analysis 1
+
+Write your text and insert code here...
+
+
+## Exploratory Data Analysis 2
+
+Write your text and insert code here...
+
+## Regression Analysis
+
+Write your text and insert code here...
+
+## Confidence Interval
+
+Write your text and insert code here...
+
+## Hypothesis Test
+
+Write your text and insert code here...
+
+## Conclusions
+
+Write your text here...
